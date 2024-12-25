@@ -1,0 +1,61 @@
+.header {
+    height: 34vw;
+    margin: 30px auto;
+    background: url('/ko2.jpg') no-repeat center center;
+    background-size: cover; /* Thay đổi từ contain thành cover */
+    position: relative;
+    border-radius: 15px; /* Tùy chọn: thêm bo góc */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Thêm hiệu ứng đổ bóng */
+}
+
+.header-contents {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Đặt chính xác để căn chỉnh theo ý */
+    gap: 1.5vw;
+    max-width: 50%;
+    bottom: 10%; /* Giảm khoảng cách để phù hợp hơn */
+    left: 6vw; /* Điều chỉnh để phù hợp với khoảng cách mong muốn */
+    color: #fff; /* Đảm bảo chữ dễ đọc */
+    text-shadow: 0 2px 5px rgba(0, 0, 0, 0.7); /* Thêm bóng cho chữ */
+    animation: fadeIn 3s;
+}
+
+.header-contents h2{
+    font-weight: 500;
+    color: #fff;
+    font-size: max(4.5vw, 22px);
+}
+
+.header-contents p{
+    color: #fff;
+    font-size: 1vw;
+}
+.header-contents button{
+    border: none;
+    color: #747474; 
+    font-weight: 500;
+    padding: 1vw 2.3vw;
+    background-color: #fff;
+    font-size: max(1vw,13px);
+    border-radius: 50px;
+}
+
+@media (max-width: 1050px){
+    .header-contents{
+        max-width: 45%;
+    }
+}
+
+@media (max-width: 750px){
+    .header-contents{
+        max-width: 65%;
+    }
+    .header-contents p{
+        display: none;
+    }
+    .header-contents button{
+        padding: 2vw 4vw;
+    }
+}

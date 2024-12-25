@@ -1,0 +1,121 @@
+/* Container chính của form */
+.add {
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: #ffffff; /* Màu nền trắng */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Đổ bóng */
+    border-radius: 10px; /* Bo góc */
+    padding: 20px 30px;
+}
+
+/* Căn chỉnh các phần tử theo chiều dọc */
+.flex-col {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Căn chỉnh các phần tử con */
+.add form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px; /* Khoảng cách giữa các thành phần */
+}
+
+/* Phần upload ảnh */
+.add-img-upload {
+    align-items: center;
+    text-align: center;
+    gap: 10px;
+}
+
+.add-img-upload img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border: 2px dashed #cccccc; /* Viền nét đứt */
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer; /* Hiển thị con trỏ khi hover */
+    transition: 0.3s ease;
+}
+
+.add-img-upload img:hover {
+    border-color: #5e5eff; /* Đổi màu khi hover */
+    background-color: #f5f5ff;
+}
+
+/* Input và textarea */
+.add input[type="text"],
+.add input[type="number"],
+.add textarea,
+.add select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #cccccc;
+    border-radius: 8px;
+    font-size: 16px;
+    font-family: inherit;
+    outline: none;
+    transition: border 0.3s ease;
+}
+
+.add input:focus,
+.add textarea:focus,
+.add select:focus {
+    border-color: #5e5eff; /* Đổi màu viền khi focus */
+    box-shadow: 0 0 4px rgba(94, 94, 255, 0.4);
+}
+
+/* Label và tiêu đề */
+.add p {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+/* Các nhóm category và price */
+.add-category-price {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.add-category-price .flex-col {
+    flex: 1;
+}
+
+/* Nút ADD */
+.add-btn {
+    width: 100%;
+    padding: 12px 0;
+    background-color:rgb(192, 27, 44); /* Màu xanh dương */
+    color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.add-btn:hover {
+    background-color: rgb(192, 27, 44); /* Màu xanh đậm hơn khi hover */
+}
+
+.add-btn:active {
+    transform: scale(0.98); /* Thu nhỏ nhẹ khi nhấn */
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .add {
+        padding: 15px 20px;
+    }
+
+    .add-category-price {
+        flex-direction: column;
+        gap: 15px;
+    }
+}
+

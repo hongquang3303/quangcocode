@@ -1,0 +1,89 @@
+.footer {
+    color: #9d9d9d;
+    background-color: #323232;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 40px 8vw; /* Tăng padding để không gian thoáng hơn */
+    margin-top: 100px;
+}
+
+.footer-content {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr; /* Bố cục lưới chia phần hợp lý */
+    gap: 40px; /* Giảm khoảng cách giữa các cột */
+}
+
+.footer-content-left,
+.footer-content-right,
+.footer-content-center {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Căn chỉnh về bên trái cho nội dung */
+    gap: 20px;
+}
+
+.footer-content-left li,
+.footer-content-right li,
+.footer-content-center li {
+    list-style: none;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.footer-content-right h2,
+.footer-content-center h2 {
+    color: white;
+    font-size: 18px; /* Tăng kích thước tiêu đề */
+    margin-bottom: 10px; /* Thêm khoảng cách dưới tiêu đề */
+}
+
+.footer-content-left img {
+    width: 150px; /* Điều chỉnh kích thước logo nhỏ hơn */
+    height: auto; /* Giữ tỉ lệ gốc của logo */
+    margin-bottom: 20px; /* Thêm khoảng cách dưới logo */
+}
+
+.footer-social-icons img {
+    width: 32px; /* Giảm kích thước icon mạng xã hội */
+    margin-right: 10px;
+}
+
+.footer hr {
+    width: 100%;
+    height: 1px; /* Giảm độ dày của đường kẻ */
+    margin: 20px 0;
+    background-color: #555; /* Đổi màu đường kẻ phù hợp với nền */
+    border: none;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .footer-content {
+        grid-template-columns: 1fr; /* Các cột xếp chồng trên màn hình nhỏ */
+        gap: 20px;
+        text-align: center; /* Căn giữa nội dung */
+    }
+
+    .footer-content-left img {
+        width: 80px; /* Logo nhỏ hơn trên màn hình nhỏ */
+    }
+
+    .footer-content-left,
+    .footer-content-right,
+    .footer-content-center {
+        align-items: center; /* Nội dung căn giữa */
+    }
+}
+@media (max-width:750px) {
+    .footer-content{
+    display: none;
+    flex-direction: column;
+    gap: 35px;
+    }
+    .footer-copyright{
+        text-align: center;
+    }
+}

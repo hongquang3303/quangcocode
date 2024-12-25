@@ -1,0 +1,158 @@
+/* Orders.css */
+
+/* Container chính */
+.order.add {
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+    background-color:  #0bb35f;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+}
+
+/* Tiêu đề */
+.order.add h3 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Danh sách đơn hàng */
+.order-list {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+/* Mỗi đơn hàng */
+.order-item {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 16px;
+    padding: 16px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+/* Hình ảnh gói hàng */
+.order-item img {
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
+    border-radius: 8px;
+    background-color: #f3f3f3;
+}
+
+/* Thông tin đơn hàng */
+.order-item div {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+/* Danh sách món ăn */
+.order-item-food {
+    font-size: 14px;
+    color: #555;
+    line-height: 1.5;
+}
+
+/* Tên khách hàng */
+.order-item-name {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+}
+
+/* Địa chỉ giao hàng */
+.order-item-address {
+    font-size: 14px;
+    color: #666;
+    line-height: 1.4;
+}
+
+.order-item-address p {
+    margin: 0;
+}
+
+/* Số điện thoại */
+.order-item-phone {
+    font-size: 14px;
+    color: #007BFF;
+    font-weight: bold;
+}
+
+/* Món ăn và giá */
+.order-item p {
+    font-size: 14px;
+    color: #444;
+    margin: 4px 0;
+}
+
+/* Dropdown trạng thái */
+.order-item select {
+    margin-top: 8px;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+    background-color: #f9f9f9;
+    color: #333;
+    outline: none;
+    transition: all 0.2s ease;
+}
+
+.order-item select:focus {
+    border-color: #007BFF;
+}
+
+/* Trạng thái hover */
+.order-item:hover {
+    border-color: #007BFF;
+    box-shadow: 0 4px 8px rgba(0, 123, 255, 0.2);
+    transition: 0.3s ease-in-out;
+}
+
+/* Responsive - Cho màn hình nhỏ */
+@media (max-width: 1000px) {
+    .order-item {
+        font-size: 12px;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 15px 8px;
+    }
+
+    .order-item img {
+        width: 50px;
+        height: 50px;
+    }
+
+    .order-item div {
+        gap: 12px;
+    }
+
+    .order-item-food {
+        font-size: 13px;
+    }
+
+    .order-item-name {
+        font-size: 15px;
+    }
+
+    .order-item-address,
+    .order-item-phone {
+        font-size: 13px;
+    }
+
+    .order-item select {
+        font-size: 12px;
+        padding: 5px;
+    }
+}

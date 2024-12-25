@@ -1,0 +1,106 @@
+/* List.css */
+
+.list {
+    padding: 20px;
+    background-color: #f7f7f7;
+    min-height: 100vh;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+}
+
+.list p {
+    margin: 10px 0;
+    font-size: 20px;
+    font-weight: bold;
+    color: #44174E;
+    text-align: center;
+}
+
+.add {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+.list-table {
+    margin-top: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.list-table-format {
+    display: grid;
+    grid-template-columns: 1.5fr 4fr 3.5fr 3.5fr 3.5fr; /* Điều chỉnh tỷ lệ cột */
+    align-items: center;
+    padding: 10px 15px;
+    border-bottom: 1px solid #eee;
+    font-size: 16px;
+    text-align: center; /* Đảm bảo nội dung căn giữa */
+}
+
+.list-table-format:last-child {
+    border-bottom: none;
+}
+
+.title {
+    background-color: #0bb35f;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 15px 10px;
+    font-size: 18px;
+}
+
+.list-table-format img {
+    width: 50px; /* Kích thước cố định */
+    height: 50px; /* Kích thước cố định */
+    object-fit: cover;
+    border-radius: 5px;
+    margin: 0 auto; /* Căn giữa ảnh */
+}
+
+.list-table-format p {
+    font-size: 16px;
+    color: #333;
+    margin: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    text-align: center; /* Căn giữa */
+}
+
+.list-table-format p.cursor {
+    color: #C01B2C;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.list-table-format p.cursor:hover {
+    color: #A34054;
+    transform: scale(1.1);
+}
+
+.list-table-format b {
+    text-align: center;
+    font-size: 16px;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .list-table-format {
+        grid-template-columns: 1.5fr 2fr 2fr 1fr 1fr;
+        font-size: 14px;
+    }
+
+    .list-table-format img {
+        width: 40px;
+        height: 40px;
+    }
+    .list-table-format.title{
+        display: none;
+    }
+}
