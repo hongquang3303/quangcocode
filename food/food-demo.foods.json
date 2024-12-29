@@ -1,0 +1,264 @@
+[{
+  "_id": {
+    "$oid": "675525c0456467ebe1ff48c1"
+  },
+  "name": "Gà rán",
+  "description": "ngon trên từng ngón tay",
+  "price": 20000,
+  "image": "1733633472534anh1.jpg",
+  "category": "Gà",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67552c8b35ec81a6cbcfa815"
+  },
+  "name": "Chân gà sốt thái",
+  "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+  "price": 70000,
+  "image": "1733635211439changasotthtai.jpg",
+  "category": "Gà",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67552ce035ec81a6cbcfa824"
+  },
+  "name": "Bánh tacos",
+  "description": "Gồm thịt bò, thịt gà, phô mai, nước sốt, rau,....",
+  "price": 150000,
+  "image": "1733635296321banhtacos.png",
+  "category": "Tráng miệng",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67552d4435ec81a6cbcfa828"
+  },
+  "name": "Cơm gà",
+  "description": "Gồm đùi gà gốc tư, cơm, canh (tùy ngày)",
+  "price": 25000,
+  "image": "1733635396040comga.jpg",
+  "category": "Cơm phần",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67552d6235ec81a6cbcfa82a"
+  },
+  "name": "Cơm sườn",
+  "description": "Gồm cơm. sườn, bì, chả, canh (tùy ngày), nước mắm ",
+  "price": 25000,
+  "image": "1733635426232comsuon.jpg",
+  "category": "Cơm phần",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67552dd035ec81a6cbcfa82e"
+  },
+  "name": "Cơm xá xíu",
+  "description": "Gồm cơm, xá xíu, đồ chua, canh (tùy ngày)",
+  "price": 30000,
+  "image": "1733635536320comxaxiu.jpg",
+  "category": "Cơm phần",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67552dfc35ec81a6cbcfa831"
+  },
+  "name": "Mì xào",
+  "description": "Gồm mì, bò, cà rốt, hành tây, cải ngọt,..",
+  "price": 20000,
+  "image": "1733635580667mixao.jpg",
+  "category": "Mì",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67552e9835ec81a6cbcfa835"
+  },
+  "name": "Mì tương đen",
+  "description": "Gồm mì, sốt tương đen, dưa leo bào, đồ ăn kèm (dưa muối, măng tươi)",
+  "price": 30000,
+  "image": "1733635736643mituongden.png",
+  "category": "Mì",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67552ed635ec81a6cbcfa838"
+  },
+  "name": "Hủ tiếu",
+  "description": "Gồm hủ tiếu, trứng cút, tôm, các loại lòng heo, thịt bằm, nước dùng, tỏi phi,....",
+  "price": 25000,
+  "image": "1733635798472hutieunamvang.jpg",
+  "category": "Món nước",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6763b5bcf096db8cfeeff828"
+  },
+  "name": "Salad Bò",
+  "description": "Gồm bò, dưa leo, cà chua bi, xà lách, sốt salad,....",
+  "price": 20000,
+  "image": "1734587836879salad.jpg",
+  "category": "Salad",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676575cbb82b94546b4c7389"
+  },
+  "name": "Cơm chiên hải sản",
+  "description": "gồm cơm,  nấm đông cô.\r\n tôm,  cá (bỏ xương).\r\n",
+  "price": 30000,
+  "image": "1734702539729comhaisan.jpg",
+  "category": "Cơm phần",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6765771fb82b94546b4c738c"
+  },
+  "name": "Salad ức vịt xông khói",
+  "description": "Gồm ức vịt xông khói, bánh mì gối, rau mầm cải đỏ,cà chua bi",
+  "price": 80000,
+  "image": "1734702879023saladucvit.jpg",
+  "category": "Salad",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676577eab82b94546b4c738f"
+  },
+  "name": "Bò kho",
+  "description": "Gồm thịt bò:(thịt bắp hoặc thịt nạm)cà rốt, hành tây, tỏi, bánh mì\r\n",
+  "price": 35000,
+  "image": "1734703082035bokho.jpg",
+  "category": "Món nước",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6765788bb82b94546b4c7392"
+  },
+  "name": "Mì xào hải sản",
+  "description": " Gồm mì (2 vắt), tôm ,mực ,ớt chuông, cải thìa",
+  "price": 25000,
+  "image": "1734703243079mihaisan.jpg",
+  "category": "Mì",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67657aee726749c607cd6eae"
+  },
+  "name": "Gà sốt cay",
+  "description": "Gồm gà chiên áo l lớp sốt cay",
+  "price": 40000,
+  "image": "1734703854874gasotcay.jpg",
+  "category": "Gà",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67657b58726749c607cd6eb1"
+  },
+  "name": "Shoyu Ramen",
+  "description": "Gồm mì, nước dùng,  măng khô, hành lá, chả cá, rong biển, trứng luộc, chasu …",
+  "price": 50000,
+  "image": "1734703960087ShoyuRamen.jpg",
+  "category": "Mì",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67657b95726749c607cd6eb4"
+  },
+  "name": "Bánh canh cua",
+  "description": "Gồm sợi bánh canh, cua, tôm, nước dùng, hành phi,...",
+  "price": 20000,
+  "image": "1734704021652banhcanhcua.jpg",
+  "category": "Món nước",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67657cd5726749c607cd6eba"
+  },
+  "name": "Phở Bò",
+  "description": "Nạm vè Gàu vàng Gân bò",
+  "price": 35000,
+  "image": "1734704341180phobo1.jpg",
+  "category": "Món nươc",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67657e0d726749c607cd6ebf"
+  },
+  "name": "Xôi Xoài",
+  "description": "Gồm gạo nếp, xoài chín: 2-3 quả ,nước cốt dừa",
+  "price": 25000,
+  "image": "1734704653492soixoai.jpg",
+  "category": "Tráng miệng",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67658056726749c607cd6ec8"
+  },
+  "name": "Bánh mì thịt",
+  "description": "Gồm thịt heo, pate, ớt, dưa leo,rau răm",
+  "price": 20000,
+  "image": "1734705238245banhmithit.jpg",
+  "category": "Bánh mì",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67658111726749c607cd6ecc"
+  },
+  "name": "Bánh da lợn",
+  "description": "Gồm lá dứa, đậu xanh",
+  "price": 10000,
+  "image": "1734705425072banhdalon.jpg",
+  "category": "Tráng Miệng",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67658299726749c607cd6ed6"
+  },
+  "name": "Nưới suối DASANI",
+  "description": "Giải khát",
+  "price": 5000,
+  "image": "1734705817370dasani.png",
+  "category": "Thức Uống",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67658331726749c607cd6ee0"
+  },
+  "name": "Nước Tăng lục number1",
+  "description": "giải khát",
+  "price": 10000,
+  "image": "1734705969494tangluc.jpg",
+  "category": "Thức Uống",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6765848a726749c607cd6f01"
+  },
+  "name": "Kem khoai môn",
+  "description": "Gồm khoai môn",
+  "price": 14000,
+  "image": "1734706314231kemkhoaimon.jpg",
+  "category": "Tráng Miệng",
+  "__v": 0
+}]

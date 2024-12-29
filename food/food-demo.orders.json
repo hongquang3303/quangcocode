@@ -1,0 +1,2420 @@
+[{
+  "_id": {
+    "$oid": "675d5a41838aebdde1c9ee8b"
+  },
+  "userId": "675c338c03bd00599d227ace",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 3
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552d4435ec81a6cbcfa828",
+      "name": "Cơm gà",
+      "description": "Gồm đùi gà gốc tư, cơm, canh (tùy ngày)",
+      "price": 25000,
+      "image": "1733635396040comga.jpg",
+      "category": "Cơm phần",
+      "__v": 0,
+      "quantity": 1
+    }
+  ],
+  "amount": 225002,
+  "address": {
+    "firstName": "Nguyyễn Hồng",
+    "lastName": "Quang",
+    "email": "quang3303@gmail.com",
+    "phone": "02981873461",
+    "city": "Thành Phố Hồ Chí Minh",
+    "street": "Quận 12"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-14T09:28:04.036Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d5aaf838aebdde1c9ee8e"
+  },
+  "userId": "675c338c03bd00599d227ace",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 3
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552d4435ec81a6cbcfa828",
+      "name": "Cơm gà",
+      "description": "Gồm đùi gà gốc tư, cơm, canh (tùy ngày)",
+      "price": 25000,
+      "image": "1733635396040comga.jpg",
+      "category": "Cơm phần",
+      "__v": 0,
+      "quantity": 1
+    }
+  ],
+  "amount": 225002,
+  "address": {
+    "firstName": "Nguyyễn Hồng",
+    "lastName": "Quang",
+    "email": "quang3303@gmail.com",
+    "phone": "02981873461",
+    "city": "Thành Phố Hồ Chí Minh",
+    "street": "Quận 12"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-14T09:28:04.036Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d5b06838aebdde1c9ee91"
+  },
+  "userId": "675c338c03bd00599d227ace",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 3
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552d4435ec81a6cbcfa828",
+      "name": "Cơm gà",
+      "description": "Gồm đùi gà gốc tư, cơm, canh (tùy ngày)",
+      "price": 25000,
+      "image": "1733635396040comga.jpg",
+      "category": "Cơm phần",
+      "__v": 0,
+      "quantity": 1
+    }
+  ],
+  "amount": 225002,
+  "address": {
+    "firstName": "Nguyyễn Hồng",
+    "lastName": "Quang",
+    "email": "quang3303@gmail.com",
+    "phone": "02981873461",
+    "city": "Thành Phố Hồ Chí Minh",
+    "street": "Quận 12"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-14T09:28:04.036Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d5bc268c9e4447fa5e276"
+  },
+  "userId": "675c338c03bd00599d227ace",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 3
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552d4435ec81a6cbcfa828",
+      "name": "Cơm gà",
+      "description": "Gồm đùi gà gốc tư, cơm, canh (tùy ngày)",
+      "price": 25000,
+      "image": "1733635396040comga.jpg",
+      "category": "Cơm phần",
+      "__v": 0,
+      "quantity": 1
+    }
+  ],
+  "amount": 225002,
+  "address": {
+    "firstName": "Nguyyễn Hồng",
+    "lastName": "Quang",
+    "email": "quang3303@gmail.com",
+    "phone": "02981873461",
+    "city": "Thành Phố Hồ Chí Minh",
+    "street": "Quận 12"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-14T10:19:45.800Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d5bc268c9e4447fa5e278"
+  },
+  "userId": "675c338c03bd00599d227ace",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 3
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552d4435ec81a6cbcfa828",
+      "name": "Cơm gà",
+      "description": "Gồm đùi gà gốc tư, cơm, canh (tùy ngày)",
+      "price": 25000,
+      "image": "1733635396040comga.jpg",
+      "category": "Cơm phần",
+      "__v": 0,
+      "quantity": 1
+    }
+  ],
+  "amount": 225002,
+  "address": {
+    "firstName": "Nguyyễn Hồng",
+    "lastName": "Quang",
+    "email": "quang3303@gmail.com",
+    "phone": "02981873461",
+    "city": "Thành Phố Hồ Chí Minh",
+    "street": "Quận 12"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-14T10:19:45.800Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d5bc368c9e4447fa5e27e"
+  },
+  "userId": "675c338c03bd00599d227ace",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 3
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552d4435ec81a6cbcfa828",
+      "name": "Cơm gà",
+      "description": "Gồm đùi gà gốc tư, cơm, canh (tùy ngày)",
+      "price": 25000,
+      "image": "1733635396040comga.jpg",
+      "category": "Cơm phần",
+      "__v": 0,
+      "quantity": 1
+    }
+  ],
+  "amount": 225002,
+  "address": {
+    "firstName": "Nguyyễn Hồng",
+    "lastName": "Quang",
+    "email": "quang3303@gmail.com",
+    "phone": "02981873461",
+    "city": "Thành Phố Hồ Chí Minh",
+    "street": "Quận 12"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-14T10:19:45.800Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d5c7168c9e4447fa5e288"
+  },
+  "userId": "675c338c03bd00599d227ace",
+  "items": [
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 1
+    },
+    {
+      "_id": "67552ce035ec81a6cbcfa824",
+      "name": "Bánh tacos",
+      "description": "Gồm thịt bò, thịt gà, phô mai, nước sốt, rau,....",
+      "price": 150000,
+      "image": "1733635296321banhtacos.png",
+      "category": "Tráng miệng",
+      "__v": 0,
+      "quantity": 1
+    }
+  ],
+  "amount": 220002,
+  "address": {
+    "firstName": "Mã Hoàng",
+    "lastName": " Gia",
+    "email": "gia123@gmail.com",
+    "phone": "21311241",
+    "city": "Củ Chi",
+    "street": "không"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-14T10:19:45.800Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d5c7868c9e4447fa5e28b"
+  },
+  "userId": "675c338c03bd00599d227ace",
+  "items": [
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 1
+    },
+    {
+      "_id": "67552ce035ec81a6cbcfa824",
+      "name": "Bánh tacos",
+      "description": "Gồm thịt bò, thịt gà, phô mai, nước sốt, rau,....",
+      "price": 150000,
+      "image": "1733635296321banhtacos.png",
+      "category": "Tráng miệng",
+      "__v": 0,
+      "quantity": 1
+    }
+  ],
+  "amount": 220002,
+  "address": {
+    "firstName": "Mã Hoàng",
+    "lastName": " Gia",
+    "email": "gia123@gmail.com",
+    "phone": "21311241",
+    "city": "Củ Chi",
+    "street": "không"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-14T10:19:45.800Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d5cac36e275e540864337"
+  },
+  "userId": "675c338c03bd00599d227ace",
+  "items": [
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 1
+    },
+    {
+      "_id": "67552ce035ec81a6cbcfa824",
+      "name": "Bánh tacos",
+      "description": "Gồm thịt bò, thịt gà, phô mai, nước sốt, rau,....",
+      "price": 150000,
+      "image": "1733635296321banhtacos.png",
+      "category": "Tráng miệng",
+      "__v": 0,
+      "quantity": 1
+    }
+  ],
+  "amount": 220002,
+  "address": {
+    "firstName": "Mã Hoàng",
+    "lastName": " Gia",
+    "email": "gia123@gmail.com",
+    "phone": "21311241",
+    "city": "Củ Chi",
+    "street": "không"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-14T10:23:37.819Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d5e66df637146bab90c7a"
+  },
+  "userId": "675c338c03bd00599d227ace",
+  "items": [
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 1
+    },
+    {
+      "_id": "67552ce035ec81a6cbcfa824",
+      "name": "Bánh tacos",
+      "description": "Gồm thịt bò, thịt gà, phô mai, nước sốt, rau,....",
+      "price": 150000,
+      "image": "1733635296321banhtacos.png",
+      "category": "Tráng miệng",
+      "__v": 0,
+      "quantity": 1
+    }
+  ],
+  "amount": 220002,
+  "address": {
+    "firstName": "Mã Hoàng",
+    "lastName": " Gia",
+    "email": "gia123@gmail.com",
+    "phone": "21311241",
+    "city": "Củ Chi",
+    "street": "không"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-14T10:31:02.461Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d5f72f0f59e6d41843d7c"
+  },
+  "userId": "675c338c03bd00599d227ace",
+  "items": [],
+  "amount": 2,
+  "address": {
+    "firstName": "qưe",
+    "lastName": "qeqe",
+    "email": "qưeq@gmail.com",
+    "phone": "q11",
+    "city": "qưeqwe",
+    "street": "qeqe"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-14T10:35:08.997Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d5f72f0f59e6d41843d7f"
+  },
+  "userId": "675c338c03bd00599d227ace",
+  "items": [],
+  "amount": 2,
+  "address": {
+    "firstName": "qưe",
+    "lastName": "qeqe",
+    "email": "qưeq@gmail.com",
+    "phone": "q11",
+    "city": "qưeqwe",
+    "street": "qeqe"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-14T10:35:08.997Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d5feaf0f59e6d41843d90"
+  },
+  "userId": "675c338c03bd00599d227ace",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552ce035ec81a6cbcfa824",
+      "name": "Bánh tacos",
+      "description": "Gồm thịt bò, thịt gà, phô mai, nước sốt, rau,....",
+      "price": 150000,
+      "image": "1733635296321banhtacos.png",
+      "category": "Tráng miệng",
+      "__v": 0,
+      "quantity": 2
+    }
+  ],
+  "amount": 480002,
+  "address": {
+    "firstName": "Minh",
+    "lastName": "Long",
+    "email": "long@gmail.com",
+    "phone": "1411241",
+    "city": "qrqwr",
+    "street": "qrq"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-14T10:35:08.997Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d5feff0f59e6d41843d93"
+  },
+  "userId": "675c338c03bd00599d227ace",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552ce035ec81a6cbcfa824",
+      "name": "Bánh tacos",
+      "description": "Gồm thịt bò, thịt gà, phô mai, nước sốt, rau,....",
+      "price": 150000,
+      "image": "1733635296321banhtacos.png",
+      "category": "Tráng miệng",
+      "__v": 0,
+      "quantity": 2
+    }
+  ],
+  "amount": 480002,
+  "address": {
+    "firstName": "Minh",
+    "lastName": "Long",
+    "email": "long@gmail.com",
+    "phone": "1411241",
+    "city": "qrqwr",
+    "street": "qrq"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-14T10:35:08.997Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d6002f0f59e6d41843d96"
+  },
+  "userId": "675c338c03bd00599d227ace",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552ce035ec81a6cbcfa824",
+      "name": "Bánh tacos",
+      "description": "Gồm thịt bò, thịt gà, phô mai, nước sốt, rau,....",
+      "price": 150000,
+      "image": "1733635296321banhtacos.png",
+      "category": "Tráng miệng",
+      "__v": 0,
+      "quantity": 2
+    }
+  ],
+  "amount": 480002,
+  "address": {
+    "firstName": "Minh",
+    "lastName": "Long",
+    "email": "long@gmail.com",
+    "phone": "0913134",
+    "city": "Củ Chi",
+    "street": "không"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-14T10:35:08.997Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d6014f0f59e6d41843d99"
+  },
+  "userId": "675c338c03bd00599d227ace",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552ce035ec81a6cbcfa824",
+      "name": "Bánh tacos",
+      "description": "Gồm thịt bò, thịt gà, phô mai, nước sốt, rau,....",
+      "price": 150000,
+      "image": "1733635296321banhtacos.png",
+      "category": "Tráng miệng",
+      "__v": 0,
+      "quantity": 2
+    }
+  ],
+  "amount": 480002,
+  "address": {
+    "firstName": "Minh",
+    "lastName": "Long",
+    "email": "long@gmail.com",
+    "phone": "0913134",
+    "city": "Củ Chi",
+    "street": "không"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-14T10:35:08.997Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d601bf0f59e6d41843d9c"
+  },
+  "userId": "675c338c03bd00599d227ace",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552ce035ec81a6cbcfa824",
+      "name": "Bánh tacos",
+      "description": "Gồm thịt bò, thịt gà, phô mai, nước sốt, rau,....",
+      "price": 150000,
+      "image": "1733635296321banhtacos.png",
+      "category": "Tráng miệng",
+      "__v": 0,
+      "quantity": 2
+    }
+  ],
+  "amount": 480002,
+  "address": {
+    "firstName": "Minh",
+    "lastName": "Long",
+    "email": "long123@gmail.com",
+    "phone": "0913134",
+    "city": "Củ Chi",
+    "street": "không"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-14T10:35:08.997Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d6051f0f59e6d41843da0"
+  },
+  "userId": "675c338c03bd00599d227ace",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552ce035ec81a6cbcfa824",
+      "name": "Bánh tacos",
+      "description": "Gồm thịt bò, thịt gà, phô mai, nước sốt, rau,....",
+      "price": 150000,
+      "image": "1733635296321banhtacos.png",
+      "category": "Tráng miệng",
+      "__v": 0,
+      "quantity": 2
+    }
+  ],
+  "amount": 480002,
+  "address": {
+    "firstName": "Hồng ",
+    "lastName": "Quang",
+    "email": "quang@gmail.com",
+    "phone": "981927410",
+    "city": "cuqwre",
+    "street": "qưeqtq"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-14T10:35:08.997Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d608d1a5a3fe19cfe903f"
+  },
+  "userId": "675c338c03bd00599d227ace",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552ce035ec81a6cbcfa824",
+      "name": "Bánh tacos",
+      "description": "Gồm thịt bò, thịt gà, phô mai, nước sốt, rau,....",
+      "price": 150000,
+      "image": "1733635296321banhtacos.png",
+      "category": "Tráng miệng",
+      "__v": 0,
+      "quantity": 2
+    }
+  ],
+  "amount": 480002,
+  "address": {
+    "firstName": "9",
+    "lastName": "0",
+    "email": "0",
+    "phone": "0",
+    "city": "0",
+    "street": "0"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-14T10:40:13.104Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d60a044f90da4fdfe6ba9"
+  },
+  "userId": "675c338c03bd00599d227ace",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552ce035ec81a6cbcfa824",
+      "name": "Bánh tacos",
+      "description": "Gồm thịt bò, thịt gà, phô mai, nước sốt, rau,....",
+      "price": 150000,
+      "image": "1733635296321banhtacos.png",
+      "category": "Tráng miệng",
+      "__v": 0,
+      "quantity": 2
+    }
+  ],
+  "amount": 480002,
+  "address": {
+    "firstName": "9",
+    "lastName": "0",
+    "email": "0",
+    "phone": "0",
+    "city": "0",
+    "street": "0"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-14T10:40:31.997Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d61129944d769b1ef0009"
+  },
+  "userId": "675c338c03bd00599d227ace",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552ce035ec81a6cbcfa824",
+      "name": "Bánh tacos",
+      "description": "Gồm thịt bò, thịt gà, phô mai, nước sốt, rau,....",
+      "price": 150000,
+      "image": "1733635296321banhtacos.png",
+      "category": "Tráng miệng",
+      "__v": 0,
+      "quantity": 2
+    }
+  ],
+  "amount": 480002,
+  "address": {
+    "firstName": "9",
+    "lastName": "0",
+    "email": "0",
+    "phone": "0",
+    "city": "0",
+    "street": "0"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-14T10:42:23.004Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d62039944d769b1ef0018"
+  },
+  "userId": "675c338c03bd00599d227ace",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 1
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552ce035ec81a6cbcfa824",
+      "name": "Bánh tacos",
+      "description": "Gồm thịt bò, thịt gà, phô mai, nước sốt, rau,....",
+      "price": 150000,
+      "image": "1733635296321banhtacos.png",
+      "category": "Tráng miệng",
+      "__v": 0,
+      "quantity": 2
+    }
+  ],
+  "amount": 480000,
+  "address": {
+    "firstName": "minh",
+    "lastName": "hoang",
+    "email": "hoang@gmail.com",
+    "phone": "08751233",
+    "city": "ko",
+    "street": "ko"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-14T10:42:23.004Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d62b35aed74ca395094d1"
+  },
+  "userId": "675c338c03bd00599d227ace",
+  "items": [],
+  "amount": 20000,
+  "address": {
+    "firstName": "hoang",
+    "lastName": "long",
+    "email": "long@gmail.com",
+    "phone": "081924",
+    "city": "ko",
+    "street": "ko"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-14T10:49:02.760Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d62d85aed74ca395094e2"
+  },
+  "userId": "675c338c03bd00599d227ace",
+  "items": [
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552ce035ec81a6cbcfa824",
+      "name": "Bánh tacos",
+      "description": "Gồm thịt bò, thịt gà, phô mai, nước sốt, rau,....",
+      "price": 150000,
+      "image": "1733635296321banhtacos.png",
+      "category": "Tráng miệng",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552d4435ec81a6cbcfa828",
+      "name": "Cơm gà",
+      "description": "Gồm đùi gà gốc tư, cơm, canh (tùy ngày)",
+      "price": 25000,
+      "image": "1733635396040comga.jpg",
+      "category": "Cơm phần",
+      "__v": 0,
+      "quantity": 2
+    }
+  ],
+  "amount": 510000,
+  "address": {
+    "firstName": "hoang",
+    "lastName": "quan",
+    "email": "quang342143@gmail.com",
+    "phone": "012121241",
+    "city": "ko",
+    "street": "ko"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-14T10:49:02.760Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d62eb5aed74ca395094e5"
+  },
+  "userId": "675c338c03bd00599d227ace",
+  "items": [
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552ce035ec81a6cbcfa824",
+      "name": "Bánh tacos",
+      "description": "Gồm thịt bò, thịt gà, phô mai, nước sốt, rau,....",
+      "price": 150000,
+      "image": "1733635296321banhtacos.png",
+      "category": "Tráng miệng",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552d4435ec81a6cbcfa828",
+      "name": "Cơm gà",
+      "description": "Gồm đùi gà gốc tư, cơm, canh (tùy ngày)",
+      "price": 25000,
+      "image": "1733635396040comga.jpg",
+      "category": "Cơm phần",
+      "__v": 0,
+      "quantity": 2
+    }
+  ],
+  "amount": 510000,
+  "address": {
+    "firstName": "hoang",
+    "lastName": "quan",
+    "email": "quang342143@gmail.com",
+    "phone": "012121241",
+    "city": "củ chi",
+    "street": "ko"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-14T10:49:02.760Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d636470ddda279e5f4142"
+  },
+  "userId": "675c338c03bd00599d227ace",
+  "items": [
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552ce035ec81a6cbcfa824",
+      "name": "Bánh tacos",
+      "description": "Gồm thịt bò, thịt gà, phô mai, nước sốt, rau,....",
+      "price": 150000,
+      "image": "1733635296321banhtacos.png",
+      "category": "Tráng miệng",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552d4435ec81a6cbcfa828",
+      "name": "Cơm gà",
+      "description": "Gồm đùi gà gốc tư, cơm, canh (tùy ngày)",
+      "price": 25000,
+      "image": "1733635396040comga.jpg",
+      "category": "Cơm phần",
+      "__v": 0,
+      "quantity": 2
+    }
+  ],
+  "amount": 510000,
+  "address": {
+    "firstName": "minh",
+    "lastName": "long",
+    "email": "long@gmail.com",
+    "phone": "07981261",
+    "city": "ko",
+    "street": "ko"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-14T10:51:59.457Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675edeee4715e04b0fed19b9"
+  },
+  "userId": "675edec84715e04b0fed19b7",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552ce035ec81a6cbcfa824",
+      "name": "Bánh tacos",
+      "description": "Gồm thịt bò, thịt gà, phô mai, nước sốt, rau,....",
+      "price": 150000,
+      "image": "1733635296321banhtacos.png",
+      "category": "Tráng miệng",
+      "__v": 0,
+      "quantity": 1
+    }
+  ],
+  "amount": 350000,
+  "address": {
+    "firstName": "anh",
+    "lastName": "kiệt",
+    "email": "meokute@gmail.com",
+    "phone": "0817234",
+    "city": "ko",
+    "street": "ko"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-15T13:49:10.837Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675edf014715e04b0fed19bc"
+  },
+  "userId": "675edec84715e04b0fed19b7",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552ce035ec81a6cbcfa824",
+      "name": "Bánh tacos",
+      "description": "Gồm thịt bò, thịt gà, phô mai, nước sốt, rau,....",
+      "price": 150000,
+      "image": "1733635296321banhtacos.png",
+      "category": "Tráng miệng",
+      "__v": 0,
+      "quantity": 1
+    }
+  ],
+  "amount": 350000,
+  "address": {
+    "firstName": "anh",
+    "lastName": "kiệt",
+    "email": "meokute@gmail.com",
+    "phone": "0817234",
+    "city": "ko",
+    "street": "ko"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-15T13:49:10.837Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675edf48a7140ac6ec6dd86d"
+  },
+  "userId": "675edec84715e04b0fed19b7",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552ce035ec81a6cbcfa824",
+      "name": "Bánh tacos",
+      "description": "Gồm thịt bò, thịt gà, phô mai, nước sốt, rau,....",
+      "price": 150000,
+      "image": "1733635296321banhtacos.png",
+      "category": "Tráng miệng",
+      "__v": 0,
+      "quantity": 1
+    }
+  ],
+  "amount": 350000,
+  "address": {
+    "firstName": "anh",
+    "lastName": "kiệt",
+    "email": "meokute@gmail.com",
+    "phone": "0817234",
+    "city": "ko",
+    "street": "ko"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-15T13:53:11.819Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ee11f386cc1e9d81503fb"
+  },
+  "userId": "675edec84715e04b0fed19b7",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552ce035ec81a6cbcfa824",
+      "name": "Bánh tacos",
+      "description": "Gồm thịt bò, thịt gà, phô mai, nước sốt, rau,....",
+      "price": 150000,
+      "image": "1733635296321banhtacos.png",
+      "category": "Tráng miệng",
+      "__v": 0,
+      "quantity": 1
+    }
+  ],
+  "amount": 350000,
+  "address": {
+    "firstName": "anh",
+    "lastName": "kiệt",
+    "email": "meokute@gmail.com",
+    "phone": "0817234",
+    "city": "ko",
+    "street": "ko"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-15T14:00:56.683Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ee12b386cc1e9d81503fe"
+  },
+  "userId": "675edec84715e04b0fed19b7",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552ce035ec81a6cbcfa824",
+      "name": "Bánh tacos",
+      "description": "Gồm thịt bò, thịt gà, phô mai, nước sốt, rau,....",
+      "price": 150000,
+      "image": "1733635296321banhtacos.png",
+      "category": "Tráng miệng",
+      "__v": 0,
+      "quantity": 1
+    }
+  ],
+  "amount": 350000,
+  "address": {
+    "firstName": "anh",
+    "lastName": "kiệt",
+    "email": "meokute@gmail.com",
+    "phone": "0817234",
+    "city": "nanm",
+    "street": "namam"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-15T14:00:56.683Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ee232a81e24fc2b956a53"
+  },
+  "userId": "675edec84715e04b0fed19b7",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552ce035ec81a6cbcfa824",
+      "name": "Bánh tacos",
+      "description": "Gồm thịt bò, thịt gà, phô mai, nước sốt, rau,....",
+      "price": 150000,
+      "image": "1733635296321banhtacos.png",
+      "category": "Tráng miệng",
+      "__v": 0,
+      "quantity": 1
+    }
+  ],
+  "amount": 350000,
+  "address": {
+    "firstName": "anh",
+    "lastName": "kiệt",
+    "email": "meokute@gmail.com",
+    "phone": "0817234",
+    "city": "nanm",
+    "street": "namam"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-15T14:05:32.686Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ee8ec4f9e35da1503eee2"
+  },
+  "userId": "675edec84715e04b0fed19b7",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    }
+  ],
+  "amount": 180002,
+  "address": {
+    "firstName": "234",
+    "lastName": "234",
+    "email": "meokut@gmail.com",
+    "phone": "4234",
+    "city": "234234",
+    "street": "23423"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-15T14:28:01.138Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fa68607e601ee81b0599c"
+  },
+  "userId": "675fa66c07e601ee81b05994",
+  "items": [
+    {
+      "_id": "67552d4435ec81a6cbcfa828",
+      "name": "Cơm gà",
+      "description": "Gồm đùi gà gốc tư, cơm, canh (tùy ngày)",
+      "price": 25000,
+      "image": "1733635396040comga.jpg",
+      "category": "Cơm phần",
+      "__v": 0,
+      "quantity": 1
+    },
+    {
+      "_id": "67552d6235ec81a6cbcfa82a",
+      "name": "Cơm sườn",
+      "description": "Gồm cơm. sườn, bì, chả, canh (tùy ngày), nước mắm ",
+      "price": 25000,
+      "image": "1733635426232comsuon.jpg",
+      "category": "Cơm phần",
+      "__v": 0,
+      "quantity": 1
+    },
+    {
+      "_id": "67552dd035ec81a6cbcfa82e",
+      "name": "Cơm xá xíu",
+      "description": "Gồm cơm, xá xíu, đồ chua, canh (tùy ngày)",
+      "price": 30000,
+      "image": "1733635536320comxaxiu.jpg",
+      "category": "Cơm phần",
+      "__v": 0,
+      "quantity": 1
+    }
+  ],
+  "amount": 80002,
+  "address": {
+    "firstName": "nguyễn",
+    "lastName": "thắng",
+    "email": "thang@gmail.com",
+    "phone": "12341124",
+    "city": "ko",
+    "street": "ko"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-16T04:01:56.836Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fa6ec07e601ee81b059a7"
+  },
+  "userId": "675fa66c07e601ee81b05994",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 1
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 1
+    }
+  ],
+  "amount": 90002,
+  "address": {
+    "firstName": "nguyễn",
+    "lastName": "thắng",
+    "email": "thang@gmail.com",
+    "phone": "2342341",
+    "city": "li",
+    "street": "47475"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-16T04:01:56.836Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fa7aae02c046aa9849a8a"
+  },
+  "userId": "675fa66c07e601ee81b05994",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "_id": "67552ce035ec81a6cbcfa824",
+      "name": "Bánh tacos",
+      "description": "Gồm thịt bò, thịt gà, phô mai, nước sốt, rau,....",
+      "price": 150000,
+      "image": "1733635296321banhtacos.png",
+      "category": "Tráng miệng",
+      "__v": 0,
+      "quantity": 2
+    }
+  ],
+  "amount": 480002,
+  "address": {
+    "firstName": "nguyễn",
+    "lastName": "thắng",
+    "email": "vietgamerytbusiness@gmail.com",
+    "phone": "23423413423",
+    "city": "ko",
+    "street": "ko"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-16T04:07:02.717Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fa83fe02c046aa9849a94"
+  },
+  "userId": "675fa66c07e601ee81b05994",
+  "items": [
+    {
+      "_id": "675fa80de02c046aa9849a8d",
+      "name": "ko",
+      "description": "ko ngon",
+      "price": 70,
+      "image": "1734322189359tt.png",
+      "category": "Tráng miệng",
+      "__v": 0,
+      "quantity": 1
+    }
+  ],
+  "amount": 72,
+  "address": {
+    "firstName": "nguyễn",
+    "lastName": "thắng",
+    "email": "thang@gmail.com",
+    "phone": "6324646",
+    "city": "lki",
+    "street": "kiiuo"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-16T04:07:02.717Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fa8804f6c84fb64693f42"
+  },
+  "userId": "675fa66c07e601ee81b05994",
+  "items": [
+    {
+      "_id": "675fa80de02c046aa9849a8d",
+      "name": "ko",
+      "description": "ko ngon",
+      "price": 70,
+      "image": "1734322189359tt.png",
+      "category": "Tráng miệng",
+      "__v": 0,
+      "quantity": 1
+    }
+  ],
+  "amount": 72,
+  "address": {
+    "firstName": "nguyễn",
+    "lastName": "thắng",
+    "email": "vietgamerytbusiness@gmail.com",
+    "phone": "2342341",
+    "city": "li",
+    "street": "47475"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-16T04:11:01.248Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fa8bf5a7e5dc330dce837"
+  },
+  "userId": "675fa66c07e601ee81b05994",
+  "items": [
+    {
+      "_id": "675fa80de02c046aa9849a8d",
+      "name": "ko",
+      "description": "ko ngon",
+      "price": 70,
+      "image": "1734322189359tt.png",
+      "category": "Tráng miệng",
+      "__v": 0,
+      "quantity": 1
+    }
+  ],
+  "amount": 72,
+  "address": {
+    "firstName": "nguyễn",
+    "lastName": "thắng",
+    "email": "thang@gmail.com",
+    "phone": "2342341",
+    "city": "ko",
+    "street": "ko"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-16T04:12:10.276Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762d54a1f1553ac9f12f758"
+  },
+  "userId": "675c338c03bd00599d227ace",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 1
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 1
+    }
+  ],
+  "amount": 90002,
+  "address": {
+    "firstName": "nguyen",
+    "lastName": "hoang",
+    "email": "hoang@gmail.com",
+    "phone": "12407815",
+    "city": "ko",
+    "street": "ko"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-18T13:27:16.007Z"
+  },
+  "payment": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762d54b1f1553ac9f12f75b"
+  },
+  "userId": "675c338c03bd00599d227ace",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 1
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 1
+    }
+  ],
+  "amount": 90002,
+  "address": {
+    "firstName": "nguyen",
+    "lastName": "hoang",
+    "email": "hoang@gmail.com",
+    "phone": "12407815",
+    "city": "ko",
+    "street": "ko"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-18T13:27:16.007Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762da13c8f8cbb5e3c5ba56"
+  },
+  "userId": "675c338c03bd00599d227ace",
+  "items": [
+    {
+      "_id": "67552d6235ec81a6cbcfa82a",
+      "name": "Cơm sườn",
+      "description": "Gồm cơm. sườn, bì, chả, canh (tùy ngày), nước mắm ",
+      "price": 25000,
+      "image": "1733635426232comsuon.jpg",
+      "category": "Cơm phần",
+      "__v": 0,
+      "quantity": 1
+    },
+    {
+      "_id": "67552dd035ec81a6cbcfa82e",
+      "name": "Cơm xá xíu",
+      "description": "Gồm cơm, xá xíu, đồ chua, canh (tùy ngày)",
+      "price": 30000,
+      "image": "1733635536320comxaxiu.jpg",
+      "category": "Cơm phần",
+      "__v": 0,
+      "quantity": 1
+    }
+  ],
+  "amount": 55002,
+  "address": {
+    "firstName": "hong",
+    "lastName": "kiet",
+    "email": "long@gmail.com",
+    "phone": "12451554",
+    "city": "ko",
+    "street": "ko"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-18T14:19:34.900Z"
+  },
+  "payment": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762e983f99524d6301e32f4"
+  },
+  "userId": "675c338c03bd00599d227ace",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 1
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 1
+    }
+  ],
+  "amount": 90002,
+  "address": {
+    "firstName": "hong",
+    "lastName": "quan",
+    "email": "quan@gmail.com",
+    "phone": "12412",
+    "city": "ko",
+    "street": "ko"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-18T14:58:02.875Z"
+  },
+  "payment": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ea07f99524d6301e3306"
+  },
+  "userId": "6762e9edf99524d6301e3300",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 1
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 1
+    }
+  ],
+  "amount": 90002,
+  "address": {
+    "firstName": "ko",
+    "lastName": "ko",
+    "email": "ko@gmail.com",
+    "phone": "12541456",
+    "city": "ko",
+    "street": "ko"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-18T14:58:02.875Z"
+  },
+  "payment": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762ebaff99524d6301e333a"
+  },
+  "userId": "6762e9edf99524d6301e3300",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 1
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 1
+    },
+    {
+      "_id": "67552ce035ec81a6cbcfa824",
+      "name": "Bánh tacos",
+      "description": "Gồm thịt bò, thịt gà, phô mai, nước sốt, rau,....",
+      "price": 150000,
+      "image": "1733635296321banhtacos.png",
+      "category": "Tráng miệng",
+      "__v": 0,
+      "quantity": 1
+    },
+    {
+      "_id": "67552d4435ec81a6cbcfa828",
+      "name": "Cơm gà",
+      "description": "Gồm đùi gà gốc tư, cơm, canh (tùy ngày)",
+      "price": 25000,
+      "image": "1733635396040comga.jpg",
+      "category": "Cơm phần",
+      "__v": 0,
+      "quantity": 1
+    }
+  ],
+  "amount": 265002,
+  "address": {
+    "firstName": "ko",
+    "lastName": "ko",
+    "email": "anh@gmail.com",
+    "phone": "1454135",
+    "city": "ko",
+    "street": "ko"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-18T14:58:02.875Z"
+  },
+  "payment": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762f0c3a15ef4e8f83edacf"
+  },
+  "userId": "6762e9edf99524d6301e3300",
+  "items": [
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 1
+    }
+  ],
+  "amount": 70000,
+  "address": {
+    "firstName": "qưe",
+    "lastName": "qưee",
+    "email": "hong@gmail.com",
+    "phone": "124412",
+    "city": "ko",
+    "street": "ko"
+  },
+  "status": "Chưa Giao Hàng",
+  "date": {
+    "$date": "2024-12-18T15:36:21.764Z"
+  },
+  "payment": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676397afb7fe6dd15c8050de"
+  },
+  "userId": "6763977fb7fe6dd15c8050d5",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 1
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 1
+    },
+    {
+      "_id": "67552ce035ec81a6cbcfa824",
+      "name": "Bánh tacos",
+      "description": "Gồm thịt bò, thịt gà, phô mai, nước sốt, rau,....",
+      "price": 150000,
+      "image": "1733635296321banhtacos.png",
+      "category": "Tráng miệng",
+      "__v": 0,
+      "quantity": 1
+    }
+  ],
+  "amount": 240000,
+  "address": {
+    "firstName": "The",
+    "lastName": "Anh",
+    "email": "the@gmail.com",
+    "phone": "152301387321",
+    "city": "Thành Phố Hồ Chí Minh",
+    "street": "123/Thái Hà"
+  },
+  "status": "Đã Giao Hàng",
+  "date": {
+    "$date": "2024-12-19T01:47:47.571Z"
+  },
+  "payment": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6763b207f096db8cfeeff7f3"
+  },
+  "userId": "6763b1c8f096db8cfeeff7e9",
+  "items": [
+    {
+      "_id": "67552d4435ec81a6cbcfa828",
+      "name": "Cơm gà",
+      "description": "Gồm đùi gà gốc tư, cơm, canh (tùy ngày)",
+      "price": 25000,
+      "image": "1733635396040comga.jpg",
+      "category": "Cơm phần",
+      "__v": 0,
+      "quantity": 1
+    },
+    {
+      "_id": "67552d6235ec81a6cbcfa82a",
+      "name": "Cơm sườn",
+      "description": "Gồm cơm. sườn, bì, chả, canh (tùy ngày), nước mắm ",
+      "price": 25000,
+      "image": "1733635426232comsuon.jpg",
+      "category": "Cơm phần",
+      "__v": 0,
+      "quantity": 1
+    },
+    {
+      "_id": "67552dd035ec81a6cbcfa82e",
+      "name": "Cơm xá xíu",
+      "description": "Gồm cơm, xá xíu, đồ chua, canh (tùy ngày)",
+      "price": 30000,
+      "image": "1733635536320comxaxiu.jpg",
+      "category": "Cơm phần",
+      "__v": 0,
+      "quantity": 1
+    }
+  ],
+  "amount": 80000,
+  "address": {
+    "firstName": "The",
+    "lastName": "Huy",
+    "email": "huy@gmail.com",
+    "phone": "098174313",
+    "city": "THÀNH PHÓ HỒ CHÍ MINH",
+    "street": "QUẬN 12"
+  },
+  "status": "Chưa Giao Hàng",
+  "date": {
+    "$date": "2024-12-19T05:11:59.276Z"
+  },
+  "payment": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676583bf726749c607cd6eec"
+  },
+  "userId": "675c338c03bd00599d227ace",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 1
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 1
+    },
+    {
+      "_id": "67552dd035ec81a6cbcfa82e",
+      "name": "Cơm xá xíu",
+      "description": "Gồm cơm, xá xíu, đồ chua, canh (tùy ngày)",
+      "price": 30000,
+      "image": "1733635536320comxaxiu.jpg",
+      "category": "Cơm phần",
+      "__v": 0,
+      "quantity": 1
+    },
+    {
+      "_id": "67552dfc35ec81a6cbcfa831",
+      "name": "Mì xào",
+      "description": "Gồm mì, bò, cà rốt, hành tây, cải ngọt,..",
+      "price": 20000,
+      "image": "1733635580667mixao.jpg",
+      "category": "Mì",
+      "__v": 0,
+      "quantity": 1
+    }
+  ],
+  "amount": 140000,
+  "address": {
+    "firstName": "Mã Hoàng ",
+    "lastName": "Quân",
+    "email": "quanxt@gmail.com",
+    "phone": "08772341",
+    "city": "Thành Phố Hồ Chí Minh",
+    "street": "Quận 7"
+  },
+  "status": "Đã Giao Hàng",
+  "date": {
+    "$date": "2024-12-20T14:08:40.201Z"
+  },
+  "payment": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6769012850e23c8cae8010ce"
+  },
+  "userId": "676900f050e23c8cae8010c4",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 1
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 1
+    }
+  ],
+  "amount": 90000,
+  "address": {
+    "firstName": "Nguyễn Hồng",
+    "lastName": "Quang",
+    "email": "quangg@gmail.com",
+    "phone": "081816124",
+    "city": "Thành Phố Hồ Chí Minh",
+    "street": "Quận 12"
+  },
+  "status": "food",
+  "date": {
+    "$date": "2024-12-23T06:12:03.811Z"
+  },
+  "payment": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6769019207244030458df6ca"
+  },
+  "userId": "676900f050e23c8cae8010c4",
+  "items": [
+    {
+      "_id": "675525c0456467ebe1ff48c1",
+      "name": "Gà rán",
+      "description": "ngon trên từng ngón tay",
+      "price": 20000,
+      "image": "1733633472534anh1.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 3
+    },
+    {
+      "_id": "67552c8b35ec81a6cbcfa815",
+      "name": "Chân gà sốt thái",
+      "description": "Gồm chân gà rút xương, cốc, xoài, tắc, sốt thái,...",
+      "price": 70000,
+      "image": "1733635211439changasotthtai.jpg",
+      "category": "Gà",
+      "__v": 0,
+      "quantity": 2
+    }
+  ],
+  "amount": 200000,
+  "address": {
+    "firstName": "Nguyễn Hồng",
+    "lastName": "Quang",
+    "email": "quangg@gmail.com",
+    "phone": "087613",
+    "city": "Thành Phố Hồ Chí Minh",
+    "street": "Quận 12"
+  },
+  "status": "Chưa Giao Hàng",
+  "date": {
+    "$date": "2024-12-23T06:21:27.082Z"
+  },
+  "payment": true,
+  "__v": 0
+}]

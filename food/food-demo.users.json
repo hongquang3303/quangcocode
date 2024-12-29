@@ -1,0 +1,113 @@
+[{
+  "_id": {
+    "$oid": "67553dd76fbae76ca27c5b8a"
+  },
+  "name": "HongQuang",
+  "email": "user.quanghong@gmail.com",
+  "password": "$2b$10$FLdRCMBpWagQZ7uBprm1EOmP04/vB7fQUiQwnpHzx/vWPQDLSrLuG",
+  "cartData": {},
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67553e6b6fbae76ca27c5b92"
+  },
+  "name": "HoangQuan",
+  "email": "user.quan@gmail.com",
+  "password": "$2b$10$2oJ0n0YqtJqyZLqqLBqnb.TK1sgUDU/cWwG7alBuUZVHcpTfhJmsS",
+  "cartData": {
+    "67552ce035ec81a6cbcfa824": 1
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67555e8e947a045e9368c63b"
+  },
+  "name": "kiệt",
+  "email": "kiet@gmail.com",
+  "password": "$2b$10$TxJYV2gMd.KGh0DcSjlZZeZP2.9xeo1poXn1Jha/67DVfvnAb4oEK",
+  "cartData": {},
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675c338c03bd00599d227ace"
+  },
+  "name": "Nguyễn Hồng Quang",
+  "email": "quang@gmail.com",
+  "password": "$2b$10$aZ0RwUG2vPbP6QYg6TcmGO5m7N50S1gEa6YGg6/GgTwJ2V9ghM1TS",
+  "cartData": {},
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675edec84715e04b0fed19b7"
+  },
+  "name": "anh kiệt",
+  "email": "meokute@gmail.com",
+  "password": "$2b$10$mhurjEGmqYbHtwjrkP2RoeiT3p8VCN996Ov4T.CENNf07bPKVMTDq",
+  "cartData": {
+    "675525c0456467ebe1ff48c1": 1,
+    "67552c8b35ec81a6cbcfa815": 1
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fa66c07e601ee81b05994"
+  },
+  "name": "thang",
+  "email": "thang@gmail.com",
+  "password": "$2b$10$SzngVd7q8Jy3QH1FMw7xEeHmpgEqqo42x8/nvVWlMfpI0Yl9H32IG",
+  "cartData": {
+    "67552e9835ec81a6cbcfa835": 0,
+    "67552c8b35ec81a6cbcfa815": 0,
+    "67552dfc35ec81a6cbcfa831": 0,
+    "67552ce035ec81a6cbcfa824": 0,
+    "675525c0456467ebe1ff48c1": 0,
+    "67552d4435ec81a6cbcfa828": 0,
+    "67552d6235ec81a6cbcfa82a": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762e9edf99524d6301e3300"
+  },
+  "name": "hong",
+  "email": "quan@gmail.com",
+  "password": "$2b$10$5C06KjWjM6yPtns/4BB2..4WoTnjJpX.80GgbCJIUhDzsHqN6bFjG",
+  "cartData": {},
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6763977fb7fe6dd15c8050d5"
+  },
+  "name": "The Anh",
+  "email": "the@gmail.com",
+  "password": "$2b$10$6Sb3zU3NlGO6E91Hu8ogv.rzT7lcw.ZBZ2MlIGE1dJvornWrnK8ye",
+  "cartData": {},
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6763b1c8f096db8cfeeff7e9"
+  },
+  "name": "TheHuy",
+  "email": "huy@gmail.com",
+  "password": "$2b$10$naUTwKEl/1EVbdAuM5HHa.UupRAqCX4YipIiR1pVQFKmapDvUGq5G",
+  "cartData": {},
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676900f050e23c8cae8010c4"
+  },
+  "name": "Hồng Quang",
+  "email": "quangg@gmail.com",
+  "password": "$2b$10$p9gdzwTeJVdXHTDPGhlZ4OzJWl3iy5vJnZDwMrnf1CKehgRYvFIUu",
+  "cartData": {},
+  "__v": 0
+}]
